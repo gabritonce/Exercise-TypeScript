@@ -1,1 +1,1 @@
-# Exercise-TypeScript
+# SETTIMANA-09-TYPESCRIPT-02
